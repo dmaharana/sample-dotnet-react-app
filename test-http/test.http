@@ -1,0 +1,7 @@
+@server = http://localhost:5093
+
+### get all movies
+GET {{server}}/api/movies
+
+### get movie by id
+GET {{server}}/api/movies/1
