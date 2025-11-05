@@ -2,4 +2,4 @@
 - `dotnet new webapi -o server --no-https`
 
 ### https://github.com/anthropics/skills
-- `/skills/artifacts-builder/scripts/init-artifact.sh app-ui`
+- `./skills/artifacts-builder/scripts/init-artifact.sh app-ui`
