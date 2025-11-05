@@ -6,3 +6,4 @@
 ### https://github.com/anthropics/skills
 - `bash
   /skills/artifacts-builder/scripts/init-artifact.sh app-ui 
+`
